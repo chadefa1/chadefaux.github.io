@@ -1,0 +1,12 @@
+name: "Chadefaux"
+output_dir: "."
+navbar:    
+  title: ""
+  type: inverse
+  left:
+    - text: "Thomas Chadefaux"      
+      href: http://www.thomaschadefaux.com
+output: 
+    html_document:
+        theme: cosmo
+        highlight: textmate

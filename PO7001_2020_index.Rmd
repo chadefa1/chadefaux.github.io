@@ -1,0 +1,24 @@
+---
+title: "PO7001: Quantitative Methods 1"
+---
+
+
+- [Syllabus](PO7001/2020/PO7001_Syllabus_Chadefaux.pdf)
+- Lectures: 
+  - [Lecture 1](PO7001/2020/Lectures/lecture1.pdf) 
+  - [Lecture 2](PO7001/2020/Lectures/lecture2.pdf)
+  - [Lecture 3](PO7001/2020/Lectures/lecture3.pdf) 
+  - [Lecture 4](PO7001/2020/Lectures/lecture4.pdf)
+  - [Lecture 5](PO7001/2020/Lectures/lecture5.pdf)
+  - [Lecture 6](PO7001/2020/Lectures/lecture6.pdf) 
+  - Lecture 7: Reading week
+  - [Lecture 8](PO7001/2020/Lectures/lecture8.pdf) 
+  - [Lecture 9](PO7001/2020/Lectures/lecture9.pdf) 
+  - [Lecture 10](PO7001/2020/Lectures/lecture10.pdf) 
+  - [Lecture 11](PO7001/2020/Lectures/lecture11.pdf) 
+  - [Lecture 12](PO7001/2020/Lectures/lecture12.pdf) 
+- Assignments: 
+  - [Assignment 1](PO7001/2020/Assignments/Assignment1.pdf)
+  - [Assignment 2](POU33011/2020/Assignments/Assignment2.pdf) 
+  - [Assignment 3](POU33011/2020/Assignments/Assignment3.pdf) 
+  - [Assignment 4](POU33011/2020/Assignments/Assignment4.pdf) 

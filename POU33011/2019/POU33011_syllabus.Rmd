@@ -1,0 +1,483 @@
+---
+#bibliography:
+#- 'bibliography.bib'
+---
+
+<br>
+<br>
+
+### Trinity College Dublin, The University of Dublin
+
+<br>
+
+## **POU33011: Research Methods for Political Science A**
+
+<br>
+
+## \center SYLLABUS
+
+<br>
+
+**Lecturer**
+
+Thomas Chadefaux
+
+Thomas.Chadefaux@tcd.ie
+
+Room: 5.05 (College Green)
+
+Office hours: By Appointment
+
+**Tutor**
+
+Andrea Salvi
+
+salvia@tcd.ie
+
+<br>
+
+
+**Module Description and Objectives**
+
+This module explores a variety of both qualitative and quantitative
+social science research to develop the skills for explaining causal
+mechanism in political phenomena. Especially, the class focuses on the
+logic of scientific inference, research design and measurement. This
+module also explores the uses and abuses of statistical reasoning in
+social and political studies. Students learn the basic rules of data
+analysis and the logic of statistical inference. The class covers
+various topics such as survey methodology, content analysis, (quasi)
+experiments, and policy analysis by doing such work themselves.
+
+On successful completion of this module students should be able to:
+
+-   Critically analyse existing political science and social science
+    research on the basis of the research methods employed.
+
+-   Specify appropriate research questions in political science and
+    construct effective research design strategies to answer
+    these questions.
+
+-   Analyse quantitative data to uncover relationships between
+    theoretically relevant variables.
+
+-   Effectively use statistical methods to conduct political
+    science research.
+
+-   Effectively employ SPSS, a statistical software package, to conduct
+    political science research.
+
+
+<br>
+
+**Lectures**
+
+We will have per week:
+
+Tuesdays: 14-15 (M20 in the Museum Building)
+
+Wednesdays: 14-15 (Regent House)
+
+Typically, one of the lectures will be about research methods in
+general, while the other will focus on statistical methods. The lectures
+will add to the readings for each week by providing (political science)
+examples, highlighting the main points, explaining difficult concepts
+and methods and providing extra material which is not covered in the
+textbooks or additional readings.
+
+<br>
+
+**Tutorial Sessions**
+
+The tutor for this class is Andrea Salvi. Participation in tutorial
+sessions is **mandatory**. It will be very difficult to do well on
+homework assignments, papers or the final exam if you do not attend
+tutorials regularly. Tutorials provide a forum for going over homework,
+similar problem sets, and topics covered in the lecture. The tutorials
+will also introduce the statistical software necessary to complete the
+assignments. Please note that it is necessary to be well prepared during
+tutorials (reading assigned materials, attending lectures, doing
+homework). The tutor will not repeat what is in the book or what was
+covered in the lecture. We assume that you have done that. The only way
+to learn methods and statistics well is by practising, so make sure to
+prepare your homework exercises well.
+
+We will have **weekly tutorial sessions** from week 3 on. You will be
+assigned to a tutorial group automatically. Once you are assigned, you
+can only attend that group’s meetings unless you receive permission from
+the tutor to switch groups (either permanently or for a single session).
+
+
+<br>
+**Contacting us**
+
+The first point of contact is the tutor. If there is a **practical
+matter** which requires the attention of the lecturer, you may contact
+us by e-mail, but note that we will respond only during normal office
+hours (and do not expect an immediate response).
+
+When you have **substantive questions** about what we are covering in
+the course, please save up your questions for the Q$\&$ A during the
+lecture and for the tutorial group meetings. You can also visit the
+lecturer’s office hours, but note that we expect that you will have
+attended the lecture and tutorial groups and done the homework first.
+Office hours are not intended to replace the lectures and tutorial
+groups. As a rule, we will not deal with substantive questions via
+e-mail.
+
+**Blackboard**
+
+I will provide module announcements via Blackboard. Moreover, all
+homework and paper assignments will be made available there.
+
+If you are registered for this module in My TCD, you should also be
+automatically added to the Blackboard environment. Please make sure this
+is indeed the case.
+
+<br>
+**Literature**
+
+We will use the following text books in the module:
+
+
+Manheim, J.B., R.C. Rich, L. Wilmat, C.L. Brians and J. Babb (2012*)
+Empirical Political Analysis: An Introduction to Research Methods.*
+Harlow: Pearson Education. ISBN: 1408204622
+
+Field, A. (2013) *Discovering Statistics Using SPSS.* 4th edition (3^rd^
+edition may also be used, but relevant parts from the fourth edition
+should be obtained elsewhere). London: Sage.
+
+It is essential that you acquire your own copy of Manheim et al. (2012),
+because we will read almost all of it. We will read only about half of
+Field (2013), but it is recommended that you get your own copy as it is
+a good reference book. Make sure that you have access to the chapters
+that we will be using in class.
+
+In addition, we will use a number of journal articles and book chapters.
+Most journal articles will be freely available from the link included in
+the reading list (from campus computers). If this does not work (or if
+you are not on campus), search for the article via [Stella
+Search](https://stella.catalogue.tcd.ie/iii/encore/?lang=eng)  (or
+[Google Scholar](http://scholar.google.com/)) and log in to gain access.
+
+
+<br>
+**SPSS**
+
+We will use the statistical software package IBM SPSS Statistics
+(version 21, version 22 can also be used) in this module. It is
+imperative that you install this on your computer . Please refer to IS
+Services how to obtain your **free copy**:
+<http://isservices.tcd.ie/software/kb/student_software.php>
+
+<br>
+**Grading**
+
+The final grade consists of the following parts:
+
+-   60$\%$ of the mark is based on an end-of-term exam, which covers both research methods and statistics. The exam will consist of short descriptions
+    of relevant concepts, short essay questions and the interpretation
+    of a statistical model. A sample exam can be found [here](POU33011/POU33011_MT_exam_SAMPLE.pdf).
+
+-   1 paper counting 16$\%$ towards your overall mark. In this paper, you will
+    set up a (small) research project (based on secondary data) and
+    execute it (including a limited statistical analysis). This work
+    will be done in groups submitting joint papers. We will assign you
+    to a random partner for this project. Further information on the
+    paper assignment will be made available via Blackboard. The deadline
+    for submitting the paper on Turnitin is Friday, November 29,
+    23:59. Only one of the co-authors should submit the paper, but
+    be sure to indicate the other co-authors on the title page.
+     
+     Details on the papers and what we expect can be found [here](POU33011/Assignments/POU33011PaperGuidelines.pdf)
+     
+     Details on the presentations and what we expect can be found [here](POU33011/Assignments/POU33011PresentationGuidelines.pdf)
+
+
+-   Homework exercises are worth 20$\%$ of your overall mark. In total, students will
+    complete 4 of these exercises. ***These homework exercises must be
+    submitted on Turnitin (via Blackboard).***
+
+-  Tutorial participation  is worth 4$\%$ of your overall mark. Students should present
+    themselves at their tutorials and be prepared to discuss their work
+    in class. They should also attend the presentation sessions (weeks 9
+    and 10 in lecture). Two unexcused absences in tutorials and 1 in the
+    presentation will be tolerated. Beyond that, the student will
+    receive a zero for participation.
+
+<br>
+**Late Submissions**
+
+5 points per day will be taken off your mark on assignments submitted
+late without a valid excuse (capped at 30 points).
+
+
+<br>
+**Plagiarism**
+
+Unless explicitly stated otherwise, all coursework is **individual** and
+should be **original** (you should re-use parts of a paper you wrote for
+another module, for example).
+
+You need to **reference** any literature you use in the correct manner.
+This is true for use of quotations as well as summarizing someone else’s
+ideas in your own words. Useful information regarding essay writing may
+be found in the [political science undergraduate student
+handbook](http://www.tcd.ie/Political_Science/undergraduate/module-outlines/UndergradHandbook.pdf),
+as well as [http://www.plagiarism.org](http://www.plagiarism.org/).When
+in doubt, consult with the lecturer before you hand in an assignment.
+[Plagiarism is regarded as a major
+offence](https://libguides.tcd.ie/friendly.php?s=plagiarism)
+that **will** have serious implications.
+
+
+<br>
+**Paper Submission**
+
+All coursework must be submitted on Turnitin via
+mymodule.tcd.ie.
+
+
+All coursework deadlines are strictly adhered to. Extensions on
+deadlines will only be granted in exceptional circumstances; relevant
+documentation (for example a medical certificate, or a letter/e-mail
+from your college tutor explaining the circumstances) should be provided
+when an extension is requested. All late work, unless excused
+**beforehand**, will have 5 marks deducted for each day beyond the
+deadline, as stated in the [political science undergraduate student
+handbook](http://www.tcd.ie/Political_Science/undergraduate/module-outlines/UndergradHandbook.pdf).
+
+The weekly homework exercises must be submitted through turnitin on
+**the Monday evening (11:59pm) preceding the tutorial session**. This
+applies regardless of the tutorial you are assigned
+to. Attendance records are based on: 1) your presence at tutorial and 2)
+proof that the homework was attempted by the deadline. Please make sure
+that your answers are typed into a Word document and that you have made
+a good faith attempt at the analyses. Screenshots of the SPSS output *is
+not sufficient—*you will need to *interpret* the results and procedures.
+
+<br>
+
+#### **Overview of lectures $\&$ tutorial sessions**
+
+
+**Week 1**
+
+- [Methods Lecture](POU33011/MethodsMT01.pdf): Why do I need to learn about research methods?
+    
+    Readings: Manheim et al., Chapter 1
+
+- [Statistics Lecture](POU33011/StatisticsMT01.pdf): Why statistics? The problem of sampling
+
+    Readings: Field, Chapter 1 (1.1 to 1.5 including)
+
+
+<br> 
+
+**Week 2**
+
+- [Methods Lecture](POU33011/MethodsMT02.pdf): Theories & concepts	
+
+     Readings: 
+     
+     - Manheim et al., Chapter 2 and 3
+     
+     - Gerring, J. (1999). What Makes a Concept Good? A Criterial Framework for Understanding Concept Formation in the Social Sciences. Polity, 31(3), 357:393.
+
+
+- [Statistics Lecture](POU33011/StatisticsMT02.pdf):
+Univariate statistics: Measurement levels and measures of central tendency
+     
+     Readings: 
+     - Field, Chapter 1 (section 1.6 1.7)
+     - Manheim et al., Chapter 16
+
+
+<br>
+
+**Week 3**
+
+- [Methods Lecture](POU33011/MethodsMT03.pdf): Variables, hypotheses & measurement	
+
+     Readings: Manheim et al., Chapter 4
+     
+
+- [Statistics Lecture](POU33011/StatisticsMT03.pdf):
+Univariate statistics: Measures of dispersion and standard errors
+     
+     Readings: 
+	- Field, Chapter 2 (up to section 2.5.1 including)
+     - Field, Chapter 3
+
+
+- [Tutorial:](https://andrsalvi.github.io/research-methods/) 
+     - Theories & concepts
+     - Measurement levels 
+     - Measures of central tendency
+
+<br>
+
+
+
+
+
+**Week 4** 
+
+*NOTE: HOMEWORK 1 DUE (submit on Turnitin)* 
+
+- [Methods Lecture](POU33011/MethodsMT04.pdf): Measurement error and the research plan	
+
+     Readings: Manheim et al., Chapter 5
+     
+- [Statistics Lecture](POU33011/StatisticsMT04.pdf):
+Univariate statistics: confidence intervals & significance testing
+     
+     Readings: Field, Chapter 2 (section 2.5.2  to 2.13)
+
+
+- [Tutorial:](https://andrsalvi.github.io/research-methods/) 
+     - Hypotheses & measurement
+     - Standard deviation & error
+
+
+<br>
+
+
+**Week 5** 
+
+- [Methods Lecture](POU33011/MethodsMT05.pdf): Qualitative vs. quantitative research?	
+
+     Readings: 
+     - King, Gary, R.O. Keohane and S. Verba (1994), Designing Social Inquiry, Princeton: Princeton University Press, Chapter 1 and 2
+     - Mahoney, J., & Goertz, G. (2006). A Tale of Two Cultures: Contrasting Quantitative and Qualitative Research. Political Analysis, 14(3), 227–249. doi:10.1093/pan/mpj017
+     
+- [Statistics Lecture](POU33011/StatisticsMT05.pdf):
+Presenting data: tables and charts
+     
+     Readings: 
+     - Field, Chapter 4
+     - Manheim et al., Chapter 15
+
+
+- [Tutorial:](https://andrsalvi.github.io/research-methods/) 
+     - Confidence intervals
+     - Measurement error
+
+
+<br>
+
+
+
+**Week 6** 
+
+*NOTE: HOMEWORK 2 DUE (submit on Turnitin)* 
+
+
+- [Statistics Lecture (no "methods" this week)](POU33011/MethodsMT06.pdf): Bivariate statistics: cross tables and chi-square	
+
+     Readings: Manheim et al., Chapter 17
+     
+- [Statistics Lecture](POU33011/StatisticsMT06.pdf):
+Catch-up on late lectures
+     
+
+
+- [Tutorial:](https://andrsalvi.github.io/research-methods/) 
+     - Qualitative & quantitative,
+     - Measurement problems
+
+
+
+<br>
+
+
+
+**Week 7: STUDY WEEK** 
+
+**Week 8** 
+
+- [Statistics Lecture](POU33011/StatisticsMT06.pdf):
+Bivariate statistics: correlation
+     
+     Readings: Field, Chapter 7
+     
+- [Statistics Lecture](POU33011/StatisticsMT08b.pdf):
+Bivariate statistics: t-tests
+     
+     Readings: Field, Chapter 9
+
+
+- [Tutorial:](https://andrsalvi.github.io/research-methods/) 
+     - Presenting data
+     - Graphing in SPSS
+
+
+
+**Week 9** 
+
+*NOTE: HOMEWORK 3 DUE (submit on Turnitin)* 
+
+- Tuesday: Presentations 
+
+- Wednesday: Presentations
+
+- [Tutorial:](https://andrsalvi.github.io/research-methods/) 
+     - Chi-square
+     - Correlation
+
+
+**Week 10** 
+
+- Tuesday: Presentations
+
+- Wednesday: Presentations
+
+- [Tutorial:](https://andrsalvi.github.io/research-methods/) 
+     - Review
+
+
+**Week 11** 
+
+
+- [Methods Lecture](POU33011/MethodsMT11a.pdf): 
+Experimental research
+
+     Readings: 
+     - Manheim et al., Chapter 6 (p. 103-108)
+     - Mintz, A., Redd, S. B., & Vedlitz, A. (2006). Can We Generalize from Student Experiments to the Real World in Political Science, Military Affairs, and International Relations? Journal of Conflict Resolution, 50(5), 757–776. doi:10.1177/0022002706291052
+
+     
+- [Methods Lecture (no statistics this week)](POU33011/MethodsMT11b.pdf):
+From experimental to quasi-experimental research
+     
+     Readings: 
+     - Lyall, Jason. "Does indiscriminate violence incite insurgent attacks? Evidence from Chechnya." Journal of Conflict Resolution 53.3 (2009): 331-362.
+     - Posner, Daniel N. “The Political Salience of Cultural Difference: Why Chewas and Tumbukas Are Allies in Zambia and Adversaries in Malawi.” The American Political Science Review, vol. 98, no. 4, 2004, pp. 529–545. www.jstor.org/stable/4145323
+
+
+- [Tutorial:](https://andrsalvi.github.io/research-methods/) 
+     - Experimental Research
+
+<br>
+
+**Week 12** 
+
+*NOTE: HOMEWORK 4 DUE (submit on Turnitin)* 
+
+- [Methods Lecture](POU33011/MethodsMT12.pdf): 
+Formal analysis and rational choice
+
+     Readings:  Osborne, M. J. (2003). An Introduction to Game Theory. Oxford: Oxford University Press. Chapter 1 & 2 available from http://www.economics.utoronto.ca/osborne/igt/intro.pdf and http://www.economics.utoronto.ca/osborne/igt/nash.pdf
+
+     
+- Wednesday: Q&A, recap
+
+
+- [Tutorial:](https://andrsalvi.github.io/research-methods/) 
+     - Quasi-experiments
+
+
+
+
+**FRIDAY  29/11, 23:59: Final Paper due**

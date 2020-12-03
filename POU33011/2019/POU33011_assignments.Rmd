@@ -1,0 +1,40 @@
+---
+#bibliography:
+#- 'bibliography.bib'
+---
+
+<br>
+<br>
+
+### Trinity College Dublin, The University of Dublin
+
+<br>
+
+## **POU33011: Research Methods for Political Science A**
+
+<br>
+
+## \center Assignments
+
+
+- [Assignment 1](POU33011/Assignments/MT_HW1.pdf)
+
+     [Data for assignment 1](POU33011/Assignments/Dataset_HE_MT03.sav)
+
+- [Assignment 2](POU33011/Assignments/MT_HW2.pdf)
+
+     [Data for assignment 2](POU33011/Assignments/Dataset_MT_HW2.sav)
+
+
+- [Assignment 3](POU33011/Assignments/MT_HW3.pdf)
+
+     [Data for assignment 3](POU33011/Assignments/MT08_Data_INES.sav)
+
+
+- [Assignment 4](POU33011/Assignments/MT_HW4.pdf)
+
+     [Data for assignment 4: Norris](POU33011/Assignments/Norris.sav)
+     
+     [Data for assignment 4: INES](POU33011/Assignments/MT04_Data_INES.sav)
+     
+- [Guidelines for final paper](POU33011/Assignments/researchMethodsPaperGuidelines.pdf)

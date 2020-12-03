@@ -1,0 +1,66 @@
+---
+#bibliography:
+#- 'bibliography.bib'
+---
+
+<br>
+<br>
+
+### Trinity College Dublin, The University of Dublin
+
+<br>
+
+## **PO7005: Advanced Quantitative Methods for Political Science **
+
+<br>
+
+## Video Lectures
+- [VIDEO LECTURES](https://www.dropbox.com/sh/c8yz4etywo44nyh/AAAdB7w9TKvIZIpSNLYUZxYUa?dl=0)
+
+
+## \center Lectures
+
+
+- [Lecture 1](PO7005/Lecture1/): Why do I need to learn about research methods?
+- [Statistics Lecture (13/09)](PO3110/StatisticsMT01.pdf): Why statistics? The problem of sampling
+- [Methods Lecture (18/09)](PO3110/MethodsMT02.pdf): Theories & concepts	
+- [Statistics Lecture (20/09)](PO3110/StatisticsMT02.pdf):
+Univariate statistics: Measurement levels and measures of central tendency
+- [Methods Lecture (25/09)](PO3110/MethodsMT03.pdf): Variables, hypotheses & measurement	
+- [Statistics Lecture (27/09)](PO3110/StatisticsMT03.pdf):
+Univariate statistics: Measures of dispersion and standard errors
+- [Methods Lecture (02/10)](PO3110/MethodsMT04.pdf): Measurement error and the research plan	
+- [Statistics Lecture (04/10)](PO3110/StatisticsMT04.pdf):
+Univariate statistics: confidence intervals & significance testing
+- [Methods Lecture (09/10)](PO3110/MethodsMT05.pdf): Qualitative vs. quantitative research?	
+- [Statistics Lecture (11/02)](PO3110/StatisticsMT05.pdf):
+Presenting data: tables and charts
+- [Statistics Lecture (no "methods" this week) (16/10)](PO3110/StatisticsMT06.pdf): Bivariate statistics: cross tables and chi-square	
+- [Statistics Lecture (18/10)](PO3110/StatisticsMT06.pdf):
+Bivariate statistics: cross tables and chi-square
+- [Statistics Lecture (no "methods" this week) (30/10)](PO3110/StatisticsMT08a.pdf): Correlation	
+- [Statistics Lecture (01/11)](PO3110/StatisticsMT08b.pdf):
+Bivariate statistics: t-tests
+- Tuesday (6/11): Presentations 
+- Thursday (8/11): Presentations 
+
+- Tuesday (13/11): Presentations 
+
+- Thursday(15/11): Presentations 
+- [Methods Lecture (20/10)](PO3110/MethodsMT11a.pdf): 
+Experimental research
+
+- [Methods Lecture (no statistics this week) (22/11)](PO3110/MethodsMT11b.pdf):
+From experimental to quasi-experimental research
+  
+- [Methods Lecture (27/10)](PO3110/MethodsMT12.pdf): 
+Formal analysis and rational choice
+
+     Readings:  Osborne, M. J. (2003). An Introduction to Game Theory. Oxford: Oxford University Press. Chapter 1 & 2 available from http://www.economics.utoronto.ca/osborne/igt/intro.pdf and http://www.economics.utoronto.ca/osborne/igt/nash.pdf
+
+
+- Thursday (29/11) Q&A, recap
+
+
+
+**FRIDAY  30/11, 23:59: Final Paper due**
