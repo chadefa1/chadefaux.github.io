@@ -1,0 +1,54 @@
+name: "Chadefaux"
+output_dir: "."
+navbar:    
+  title: ""
+  type: inverse
+  left:
+    - text: "Thomas Chadefaux"      
+      href: http://www.thomaschadefaux.com
+    - text: "POU33011: Research Methods A"      
+      href: POU33011_lectures.html
+      menu:
+        - text: "Lectures"        
+          href: POU33011_lectures.html
+        - text: "---------"
+        - text: "Syllabus"
+          href: POU33011_syllabus.html
+        - text: "---------"
+        - text: "Datasets"
+          href: POU33011_syllabus.html
+        - text: "---------"
+        - text: "Tutorials"  
+          href: https://andrsalvi.github.io/research-methods/
+    - text: "PO4700: Contemporary IR"      
+      menu:
+        - text: "Lectures and Handouts"        
+          href: PO4700_lectures.html
+        - text: "---------"
+        - text: "Syllabus"
+          href: PO4700/PO4700_syllabus.pdf
+        - text: "---------"
+        - text: "Forecasting Challenge"
+          href: https://docs.google.com/forms/d/e/1FAIpQLSfeq3e0QvCBG6wYMcdgn2KgoK72fHO2wFAtRQpbEKeCSDQG5Q/viewform?c=0&w=1          
+    - text: "PO7001: Quants I"      
+      menu:
+        - text: "Lectures and Handouts"        
+          href: https://www.dropbox.com/sh/ln7sv59w0otclgn/AAAxgmKIbh908xJRGF5ZVO5Va?dl=0
+        - text: "---------"
+        - text: "Syllabus"
+          href: PO7001/PO7001_Syllabus_Chadefaux.pdf
+    - text: "PO7005: Quants II"      
+      menu:
+        - text: "Lectures and Handouts"        
+          href: https://www.dropbox.com/sh/rd0mfeqghnh8yya/AAAShmBIYGjOTxRGjGZesvgha?dl=0
+        - text: "---------"
+        - text: "Syllabus"
+          href: PO7005/Syllabus_PO7005_Chadefaux.pdf
+      href: PO7005.html      
+  right:
+    - icon: fa-reddit
+      href: https://github.com/chadefa1/chadefa1.github.io
+output: 
+    html_document:
+        theme: cosmo
+        highlight: textmate
