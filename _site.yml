@@ -5,9 +5,9 @@ navbar:
   type: inverse
   left:
     - text: "Home"      
-      href: http://www.thomaschadefaux.com
+      href: http://chadefaux.github.io/
     - text: "Research"      
-      href: http://www.thomaschadefaux.com
+      href: http://chadefaux.github.io/research.html
     - text: "Teaching"      
       href: http://chadefaux.github.io/teaching.html
 output: 
