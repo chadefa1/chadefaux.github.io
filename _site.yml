@@ -9,7 +9,7 @@ navbar:
     - text: "Research"      
       href: http://www.thomaschadefaux.com
     - text: "Teaching"      
-      href: http://www.thomaschadefaux.com
+      href: http://chadefaux.github.io/teaching.html
 output: 
     html_document:
         theme: cosmo
