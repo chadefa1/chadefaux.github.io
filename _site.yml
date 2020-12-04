@@ -1,10 +1,14 @@
 name: "Chadefaux"
 output_dir: "."
 navbar:    
-  title: ""
+  title: "Thomas Chadefaux"
   type: inverse
   left:
-    - text: "Thomas Chadefaux"      
+    - text: "Home"      
+      href: http://www.thomaschadefaux.com
+    - text: "Research"      
+      href: http://www.thomaschadefaux.com
+    - text: "Teaching"      
       href: http://www.thomaschadefaux.com
 output: 
     html_document:
