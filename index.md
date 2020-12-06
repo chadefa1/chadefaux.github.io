@@ -6,7 +6,7 @@ I am an Assistant Professor of Political Science at Trinity College Dublin. My c
 
 ## [Teaching](teaching.html)
 
-## [CV](cv.html)
+## [CV](cv.pdf)
 
 ## [Publications](publications.html)
 
