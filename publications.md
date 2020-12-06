@@ -1,3 +1,7 @@
+---
+title: test
+---
+
 # Publications
 
 **Chadefaux, T.**, 2020. What the enemy knows: Common and the rationality of war. *British Journal of Political Science*, 50(4), pp.1593-1607.
