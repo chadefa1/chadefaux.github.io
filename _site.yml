@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 name: "Chadefaux"
 output_dir: "."
 navbar:    
@@ -13,5 +12,5 @@ navbar:
       href: http://chadefaux.github.io/teaching.html
 output: 
     html_document:
-        theme: cosmo
+        theme: jekyll-theme-minimal
         highlight: textmate
