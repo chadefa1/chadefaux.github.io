@@ -12,7 +12,7 @@ I am an Assistant Professor of Political Science at Trinity College Dublin. My c
 
 ## Contact
 
-Thomas Chadefaux. 
+Thomas Chadefaux <br>
 Trinity College Dublin. 
 Department of Political Science. 
 2-3 College Green. 
