@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 name: "Chadefaux"
 output_dir: "."
 navbar:    
