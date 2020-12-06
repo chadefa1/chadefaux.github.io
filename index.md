@@ -8,7 +8,7 @@ I am an Assistant Professor of Political Science at Trinity College Dublin. My c
 
 ## [CV](CV.pdf)
 
-## [Publications](publications.html)
+## [Publications](publications.md)
 
 ## Contact
 
