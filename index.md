@@ -12,12 +12,12 @@ I am an Assistant Professor of Political Science at Trinity College Dublin. My c
 
 ## Contact
 
-Thomas Chadefaux
-Trinity College Dublin
-Department of Political Science
-2-3 College Green
-Dublin 2, Ireland
+Thomas Chadefaux. 
+Trinity College Dublin. 
+Department of Political Science. 
+2-3 College Green. 
+Dublin 2, Ireland. 
 
-thomas.chadefaux@tcd.ie
-www.thomaschadefaux.com
-Phone: +353 1 896 3484
+thomas.chadefaux@tcd.ie. 
+www.thomaschadefaux.com. 
+Phone: +353 1 896 3484. 
