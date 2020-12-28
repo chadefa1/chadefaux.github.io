@@ -1,4 +1,4 @@
-# PaCE: Patterns of Conflict Escalation
+# PaCE: Patterns of Conflict Emergence
 
 ## What is PaCE?
 PaCE is an ERC-funded project to uncover recurring temporal sequences in the run-up to war.
