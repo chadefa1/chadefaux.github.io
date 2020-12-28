@@ -3,25 +3,25 @@
   image: assets/images/intconflict.png
   description: MSc seminar 
   location: Trinity College Dublin
-  link: "teaching/PO8051"
+  link: "teachingMaterial/PO8051"
 - name: Research Methods for Political Science A
   code: POU33011 
   level: Undergraduate 
   image: assets/images/creature.jpg
   description: Undergraduate Lecture
   location: Trinity College Dublin
-  link: "teaching/POU33011"
+  link: "teachingMaterial/POU33011"
 - name: "Capstone: Forecasting Conflict"
   code: POU4400
   level: Undergraduate
   image: assets/images/capstone.png
   description: Undergraduate Seminar
-  link: "teaching/capstone"
+  link: "teachingMaterial/capstone"
   location: Trinity College Dublin
 - name: Quantitative Methods I
   level: PhD
   code: "PO7001"
-  link: "teaching/PO7001"
+  link: "teachingMaterial/PO7001"
   image: assets/images/statistics.png
   description: PhD Seminar
   location: Trinity College Dublin
@@ -34,13 +34,13 @@
 - name: Contemporary International Relations
   code: PO4700
   level: undergraduate
-  link: "teaching/PO4700"
+  link: "teachingMaterial/PO4700"
   image: assets/images/civilWar.jpg
   description: Undergraduate Lecture
   location: Trinity College Dublin
 - name: "Brown in Dublin: Contemporary Global Politics"
   code: PO6000 
-  link: "teaching/brownInDublin"
+  link: "teachingMaterial/brownInDublin"
   image: assets/images/brownInDublin.jpeg
   description: Undergraduate Lecture
   location: Trinity College Dublin
