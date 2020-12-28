@@ -1,0 +1,133 @@
+- name: bjps2020
+  link: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-the-enemy-knows-common-knowledge-and-the-rationality-of-war/B6AEABE7CECADCD0C46EB62BC8B6354A#"
+  title: "What the enemy knows: Common and the rationality of war"
+  author: Chadefaux, T
+  year: 2020
+  journal: British Journal of Political Science
+  volume: 50
+  number: 4
+  pages: "pp. 1593-1607"
+  content: 
+  image: assets/images/bjpsChadefaux.png
+  description: 
+- name: II2019
+  link: "https://www.tandfonline.com/doi/full/10.1080/03050629.2019.1554571"
+  title: "Nowhere to go? Why do some civil wars generate more refugees than others?"
+  author: Turkoglu, O. and Chadefaux, T
+  year: 2019
+  journal: International Interactions
+  volume: 45
+  number: 2
+  pages: "pp. 401-420"
+  content: 
+  image: assets/images/ii.png
+  description: 
+- name: JPR2017
+  link: "https://journals.sagepub.com/doi/abs/10.1177/0022343316687615"
+  title: "Market anticipations of conflict onsets"
+  author: Chadefaux, T
+  year: 2017
+  journal: Journal of Peace Research
+  volume: 54
+  number: 2
+  pages: "pp. 313-327"
+  content: 
+  image: assets/images/jpr2017.png
+  description:   
+- name: JITP2017
+  link: "https://www.tandfonline.com/doi/full/10.1080/19331681.2017.1308288"
+  title: "Communication power struggles on social media: A case study of the 2011–12 Russian protests"
+  author: Spaiser, V., Chadefaux, T., Donnay, K., Russmann, F. and Helbing, D.
+  year: 2017
+  journal: "Journal of Information Technology & Politics"
+  volume: 14
+  number: 2
+  pages: "pp. 132-153"
+  content: 
+  image: assets/images/JITP.jpeg
+  description:   
+- name: DS2017
+  link: "https://content.iospress.com/articles/data-science/ds002"
+  title: "Conflict Forecasting and its Limits"
+  author: Chadefaux, T
+  year: 2017
+  journal: "Data Science"
+  volume: 1
+  number: 1-2
+  pages: "pp. 7-17"
+  content: 
+  image: assets/images/dataScience.jpg
+  description:   
+- name: JSP2017
+  link: "https://content.iospress.com/articles/data-science/ds002"
+  title: "Saving human lives: What complexity science and information systems can contribute"
+  author: "Helbing, D., Brockmann, D., Chadefaux, T., Donnay, K., Blanke, U., Woolley-Meza, O., Moussaid, M., Johansson, A., Krause, J., Schutte, S. and Perc, M"
+  year: 2015
+  journal: "Journal of Statistical Physics"
+  volume: 158
+  number: 3
+  pages: "pp. 735-781"
+  content: 
+  image: assets/images/jsp.png
+  description:   
+- name: JPR2014
+  link: "https://journals.sagepub.com/doi/abs/10.1177/0022343313507302"
+  title: "Early warning signals for war in the news"
+  author: "Chadefaux, T"
+  year: 2014
+  journal: "Journal of Peace Research"
+  volume: 51
+  number: 1
+  pages: "pp. 5-18"
+  content: 
+  image: assets/images/jpr2014.png
+  description:  "Featured in The New York Times. <br> Best visualization award 2014, Journal of Peace Research.
+<br>Best paper Award, Internet, Politics, Policy Conference, Oxford, 2012."
+- name: plos2012
+  link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030902"
+  title: "The rationality of prejudices"
+  author: "Chadefaux, T. and Helbing, D"
+  year: 2012
+  journal: "PloS one"
+  volume: 7
+  number: 2
+  pages: "pp. 5-18"
+  content: 
+  image: assets/images/plos2012.png
+  description:  ""
+- name: IT2011
+  link: "https://www.cambridge.org/core/journals/international-theory/article/abs/bargaining-over-power-when-do-shifts-in-power-lead-to-war/43BB13DF2F182E3E8759D8A5A31C4DF7"
+  title: "Bargaining over power: When do shifts in power lead to war?"
+  author: "Chadefaux, T"
+  year: 2011
+  journal: "International Theory"
+  volume: 3
+  number: 2
+  pages: "pp. 228-253"
+  content: 
+  image: assets/images/internationalTheory.jpg
+  description:  ""
+- name: plos2010
+  link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013471"
+  title: "How wealth accumulation can promote cooperation"
+  author: "Chadefaux, T. and Helbing, D"
+  year: 2010
+  journal: "PLoS One"
+  volume: 5
+  number: 10
+  pages: ""
+  content: 
+  image: assets/images/plos2010.png
+  description:  ""
+
+
+
+
+
+
+
+
+
+
+
+
