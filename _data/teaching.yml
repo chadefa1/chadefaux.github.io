@@ -48,9 +48,15 @@
   code: PO6000 
   link: "teachingMaterial/brownInDublin"
   image: assets/images/brownInDublin.jpeg
-  description: Undergraduate Lecture
   location: Trinity College Dublin
 
+- name: "International Negotiations"
+  description: MSc Seminar
+  code: PO8030 
+  link:   assets/files/teaching/PO8030/chadefaux_Syllabus_intlNeg_PO8030
+  image: assets/images/negotiations.jpg
+  location: Trinity College Dublin
+  
 - name: Modeling Social Processes
   link: ""
   code: 860-0022-00L
