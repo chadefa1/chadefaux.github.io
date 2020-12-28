@@ -1,6 +1,6 @@
 ---
 title: "Contemporary Global Politics "
-subtitle: "(week 2: topics in International Security)"
+layout:page
 ---
 
 <br>
