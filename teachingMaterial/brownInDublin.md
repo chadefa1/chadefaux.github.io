@@ -1,12 +1,12 @@
 ---
-title: "Contemporary Global Politics "
-layout:page
+title: "Contemporary Global Politics"
+layout: page
 ---
 
 <br>
 <br>
 
-# [Syllabus]()
+# [Syllabus](../assets/files/teaching/BrownInDublin/syllabus_Brown_Chadefaux.pdf)
 
 # Lectures
 ### Monday: War in our Genes
