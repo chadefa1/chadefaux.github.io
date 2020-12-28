@@ -1,7 +1,7 @@
 - name: International Conflict
   code: PO8051 
   image: assets/images/intconflict.png
-  description: MSc seminar 
+  description: M.Sc. seminar 
   location: Trinity College Dublin
   link: "teachingMaterial/PO8051"
 - name: Research Methods for Political Science A
@@ -51,7 +51,7 @@
   location: Trinity College Dublin
 
 - name: "International Negotiations"
-  description: MSc Seminar
+  description: M.Sc. Seminar
   code: PO8030 
   link:   assets/files/teaching/PO8030/chadefaux_Syllabus_intlNeg_PO8030.pdf
   image: assets/images/negotiations.jpg
