@@ -11,6 +11,7 @@
   description: Undergraduate Lecture
   location: Trinity College Dublin
   link: "teachingMaterial/POU33011"
+  
 - name: "Capstone: Forecasting Conflict"
   code: POU4400
   level: Undergraduate
@@ -18,6 +19,7 @@
   description: Undergraduate Seminar
   link: "teachingMaterial/capstone"
   location: Trinity College Dublin
+  
 - name: Quantitative Methods I
   level: PhD
   code: "PO7001"
@@ -25,12 +27,14 @@
   image: assets/images/statistics.png
   description: PhD Seminar
   location: Trinity College Dublin
+  
 - name: Quantitative Methods II
   code: PO7005
   link: "https://www.dropbox.com/sh/rd0mfeqghnh8yya/AAAShmBIYGjOTxRGjGZesvgha?dl=0"
   description: PhD Seminar
   image: assets/images/regression.png
   location: Trinity College Dublin
+  
 - name: Contemporary International Relations
   code: PO4700
   level: undergraduate
@@ -38,15 +42,18 @@
   image: assets/images/civilWar.jpg
   description: Undergraduate Lecture
   location: Trinity College Dublin
-- name: "Brown in Dublin: Contemporary Global Politics"
+  
+- name: "Contemporary Global Politics"
+  description: Consortium for Advanced Studies Abroad (CASA)
   code: PO6000 
   link: "teachingMaterial/brownInDublin"
   image: assets/images/brownInDublin.jpeg
   description: Undergraduate Lecture
   location: Trinity College Dublin
-  
+
 - name: Modeling Social Processes
   link: ""
+  code: 860-0022-00L
   image: assets/images/eth.jpg
   location: ETH Zurich
   description: Undergraduate Lecture
@@ -58,6 +65,7 @@
   location: University of Rochester
   description: Undergraduate Lecture
   image: assets/images/rochester.jpg
+
 - name: Peace and War
   code: IR 227
   date: 
@@ -65,13 +73,15 @@
   image: assets/images/rochester.jpg
   link: "http://www.thomaschadefaux.com/files/syllabi/SyllabusPeaceAndWar.pdf"
   description: Undergraduate Lecture
+
 - name: Preventive Wars
   code: IR 222
   date: 
   location: University of Rochester
   image: assets/images/rochester.jpg
-  link: "http://www.thomaschadefaux.com/files/syllabi/SyllabusPreventiveWars.pdf"
+  link: assets/files/teaching/rochester/SyllabusPreventiveWars.pdf
   description: Undergraduate Lecture
+  
 - name: International Negotiations
   code: IR 225
   image: assets/images/rochester.jpg
