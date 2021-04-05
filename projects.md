@@ -15,23 +15,24 @@ title: Projects
 }
 </style>
 </head>
-
-<div>
-  <img src="assets/images/paceLogo.png" width="400px" class='center' align="right" /> 
-</div>
 </html>
 
 
-# PaCE: Patterns of Conflict Escalation
-
-
 <center>
+<h1>PaCE: Patterns of Conflict Escalation</h1>
+
 <h2>
 Access the <a href="www.conflictpatterns.com">PaCE website</a>
 </h2>
 </center>
 
+
+
 ## What is PaCE?
+<div>
+  <img src="assets/images/paceLogo.png" width="400px" class='center' align="right" /> 
+</div>
+
 PaCE is an ERC-funded project that aims to uncover recurring temporal sequences in the run-up to war.
 
 
