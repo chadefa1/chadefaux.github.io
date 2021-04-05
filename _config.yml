@@ -19,7 +19,7 @@ site-keywords: chadefaux
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: assets/images/agincourt.jpg #meta.jpg
+heroimage: /WhatATheme/assets/images/agincourt.jpg #meta.jpg
 #https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
