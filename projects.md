@@ -24,7 +24,7 @@ title: Projects
 # PaCE: Patterns of Conflict Escalation
 
 <h1><center>
-**Access the [PaCE website](www.conflictpatterns.com)** </center></h1>
+Access the [PaCE website](www.conflictpatterns.com) </center></h1>
 
 ## What is PaCE?
 PaCE is an ERC-funded project that aims to uncover recurring temporal sequences in the run-up to war.
