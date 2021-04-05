@@ -22,7 +22,7 @@ title: Projects
 <h1>PaCE: Patterns of Conflict Escalation</h1>
 
 <h3>
-<a href="www.conflictpatterns.com">PaCE website</a>
+<a href="http://www.conflictpatterns.com">PaCE website</a>
 </h3>
 </center>
 
