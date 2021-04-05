@@ -11,7 +11,7 @@ title: Thomas Chadefaux
 # Description of the Site
 description: ""
 # URL of Image of the Site
-site-image: assets/images/agincourt.jpg #meta.jpg
+site-image: /WhatATheme/assets/images/agincourt.jpg #meta.jpg
 site-cv: assets/files/CV.pdf #meta.jpg
 # Keywords of the Site
 site-keywords: chadefaux
