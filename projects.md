@@ -19,7 +19,7 @@ title: Projects
 
 
 <center>
-<h1>PaCE: Patterns of Conflict Escalation</h1>
+<h1>PaCE: Patterns of Conflict Emergence</h1>
 
 <h3>
 <a href="http://www.conflictpatterns.com">PaCE website</a>
