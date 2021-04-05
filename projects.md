@@ -21,10 +21,11 @@ title: Projects
 </div>
 </html>
 
-<center><h1>
-PaCE: Patterns of Conflict Escalation
-</h1>
 
+# PaCE: Patterns of Conflict Escalation
+
+
+<center>
 <h2>
 Access the <a href="www.conflictpatterns.com">PaCE website</a>
 </h2>
