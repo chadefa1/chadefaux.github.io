@@ -1,7 +1,32 @@
-# PaCE: Patterns of Conflict Emergence
+---
+layout: page
+title: PaCE <br> Patterns of Conflict Escalation
+---
 
-## What is PaCE?
-PaCE is an ERC-funded project to uncover recurring temporal sequences in the run-up to war.
+<html>
+<head>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  Padding: 10px
+}
+</style>
+</head>
+
+
+
+<div>
+  <img src="assets/images/paceLogo.png" width="400px" class='center' align="right" /> 
+</div>
+</html>
+
+
+# What is PaCE?
+PaCE is an ERC-funded project that aims to uncover recurring temporal sequences in the run-up to war.
+
+Access the [PaCE website](www.conflictpatterns.com)
 
 The idea that history may repeat itself is old. But are there really recurring patterns in the escalation and emergence of wars? Just as DNA sequencing has been critical to medical diagnoses, PaCE aims to diagnose international politics by uncovering the relevant patterns in the area of conflict.
 
@@ -11,7 +36,7 @@ and inform theories of conflict. I propose to combine new methods using the shap
 events rather than its raw values—and novel data on conflict from finance, diplomatic cables, and
 newspapers, to extract typical pre-war motifs. 
 
-## Objectives
+# Objectives
 ### Identify patterns
 Identify patterns in the pre-conflict actions using data on conflict events—from the onset of WWI
 to Hamas’s rocket launches—and in their perceptions using data from financial markets (the
@@ -31,3 +56,11 @@ conflict events.
 Summarize the core features of dangerous patterns into motifs—recurring patterns—that can help
 build new theories of conflict emergence and escalation. PaCE will build a repository of shapes—a
 grammar of patterns—to be used as the building blocks of new theories.
+
+# Funding
+PaCE is funded by ERC grant 101002240 and is hosted at the Department of Political Science at Trinity College Dublin. 
+
+<div float="center" width="2000px">
+  <img src="assets/images/ercTransparent.png" width="125px" class='center' align='center'/>
+  <img src="assets/images/Trinity_Main_Logo.jpeg" width="250px" class='center' align='center'/>
+</div>
