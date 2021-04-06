@@ -1,6 +1,6 @@
 - name: bjps2020
   link: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-the-enemy-knows-common-knowledge-and-the-rationality-of-war/B6AEABE7CECADCD0C46EB62BC8B6354A#"
-  title: "What the enemy knows: Common and the rationality of war"
+  title: "What the enemy knows: Common knowledge and the rationality of war"
   author: Chadefaux, T
   year: 2020
   journal: British Journal of Political Science
@@ -48,7 +48,7 @@
   description:   
 - name: DS2017
   link: "https://content.iospress.com/articles/data-science/ds002"
-  title: "Conflict Forecasting and its Limits"
+  title: "Conflict forecasting and its limits"
   author: Chadefaux, T
   year: 2017
   journal: "Data Science"
@@ -81,8 +81,8 @@
   pages: "pp. 5-18"
   content: 
   image: assets/images/jpr2014.png
-  description:  "Featured in The New York Times. <br> Best visualization award 2014, Journal of Peace Research.
-<br>Best paper Award, Internet, Politics, Policy Conference, Oxford, 2012."
+  description:  "Featured in <i>The New York Times</i>. <br> Best visualization award 2014, Journal of Peace Research.
+<br>Best paper award, Internet, Politics, Policy Conference, Oxford, 2012."
 - name: plos2012
   link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030902"
   title: "The rationality of prejudices"
