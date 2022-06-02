@@ -1,3 +1,29 @@
+- name: ii2022
+  link: ""
+  title: "A shape-based approach to conflict forecasting"
+  author: Chadefaux, T
+  year: forthcoming
+  journal: International Interactions
+  volume: 
+  number: 
+  pages: ""
+  content: 
+  image: assets/images/gini.jpeg
+  description:
+  
+- name: psrm2022
+  link: ""
+  title: "The effect of terrorist attacks on attitudes and its duration"
+  author: Turkoglu, O. and Chadefaux, T
+  year: forthcoming
+  journal: Political Science Research and Methods
+  volume: 
+  number: 
+  pages: ""
+  content: 
+  image: assets/images/psrm.png
+  description:
+  
 - name: bjps2020
   link: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-the-enemy-knows-common-knowledge-and-the-rationality-of-war/B6AEABE7CECADCD0C46EB62BC8B6354A#"
   title: "What the enemy knows: Common knowledge and the rationality of war"
