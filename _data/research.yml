@@ -1,4 +1,31 @@
-- name: ii2022
+
+- name: jcs2023
+  link: "https://www.sciencedirect.com/science/article/pii/S1877750323001345"
+  title: "An automated pattern recognition system for conflict"
+  author: Chadefaux T.
+  year: 2023
+  journal: Journal of Computational Science
+  volume: 72
+  number: 
+  pages: ""
+  content: 
+  image: assets/images/jcs.jpg
+  description:
+  
+- name: isq2022
+  link: "https://academic.oup.com/isq/article/66/4/sqac056/6701955"
+  title: "Public and Private Information in International Crises: Diplomatic Correspondence and Conflict Anticipation"
+  author: Boussalis C., Chadefaux T, Salvi A. and Decadri S.
+  year: 2022
+  journal: International Studies Quarterly
+  volume: 66
+  number: 4
+  pages: ""
+  content: 
+  image: assets/images/ddf.png
+  description:
+  
+  - name: ii2022
   link: "https://www.tandfonline.com/doi/abs/10.1080/03050629.2022.2009821?journalCode=gini20"
   title: "A shape-based approach to conflict forecasting"
   author: Chadefaux, T
