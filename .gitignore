@@ -13,3 +13,7 @@ assets/rendercv/rendercv_output/*.typ
 Gemfile.lock
 node_modules/
 vendor
+
+# Local artifacts
+.gem/
+gh-pages-worktree/
