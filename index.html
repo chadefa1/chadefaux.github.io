@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>Thomas Chadefaux – Political Scientist</title>
+	<meta name="description" content="Professor in Political Science at Trinity College Dublin. Research on conflict prediction." />
+
+	<style>
+		* {
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+		}
+
+		body {
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+			font-size: 0.875rem;
+			line-height: 1.5;
+			color: #262626;
+			background: #fff;
+			-webkit-font-smoothing: antialiased;
+			-moz-osx-font-smoothing: grayscale;
+		}
+
+		.container {
+			display: flex;
+			flex-direction: column;
+			padding: 1rem 1rem 3rem;
+			max-width: 1400px;
+			margin: 0 auto;
+		}
+
+		nav {
+			margin-bottom: 2rem;
+			padding-bottom: 1rem;
+			border-bottom: 1px solid #e5e5e5;
+		}
+
+		nav menu {
+			list-style: none;
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: flex-end;
+			gap: 1rem;
+			font-size: 1rem;
+			line-height: 1.25;
+		}
+
+		nav a {
+			color: #a3a3a3;
+			text-decoration: none;
+			transition: color 0.2s;
+		}
+
+		nav a:hover,
+		nav a[data-active="true"] {
+			color: #171717;
+		}
+
+		main {
+			position: relative;
+			width: 100%;
+			min-width: 0;
+			text-align: justify;
+			hyphens: auto;
+		}
+
+		article {
+			position: relative;
+		}
+
+		h1 {
+			margin-bottom: 2rem;
+			text-align: left;
+			font-weight: 500;
+			color: #171717;
+		}
+
+		.space-y-4 > * + * {
+			margin-top: 1rem;
+		}
+
+		p {
+			margin-bottom: 1rem;
+		}
+
+		a {
+			text-decoration: underline;
+			color: #262626;
+			transition: color 0.2s;
+		}
+
+		a:hover {
+			color: #000;
+		}
+
+		hr {
+			margin: 1.5rem 0;
+			border: 0;
+			border-top: 1px solid #e5e5e5;
+		}
+
+		.links {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 1rem;
+			font-size: 0.75rem;
+		}
+
+		.publication-list {
+			margin-top: 2rem;
+		}
+
+		.publication-item {
+			margin-bottom: 1.5rem;
+		}
+
+		.publication-title {
+			font-weight: 500;
+			margin-bottom: 0.25rem;
+		}
+
+		.publication-meta {
+			color: #737373;
+			font-size: 0.75rem;
+		}
+
+		ul {
+			list-style-type: disc;
+		}
+
+		ul li {
+			margin-bottom: 0.25rem;
+		}
+
+		.sidebar {
+			display: none;
+		}
+
+		.sidebar img {
+			width: 100%;
+			max-width: 250px;
+			height: auto;
+			border-radius: 4px;
+			display: block;
+		}
+
+		.content-wrapper {
+			display: flex;
+			gap: 3rem;
+			width: 100%;
+		}
+
+		/* Tablet and up */
+		@media (min-width: 640px) {
+			.container {
+				padding: 3rem;
+				padding-bottom: 3rem;
+			}
+
+			main {
+				max-width: 42rem;
+				padding-left: 2rem;
+			}
+
+			nav menu {
+				margin-right: 2rem;
+			}
+		}
+
+		/* Desktop */
+		@media (min-width: 768px) {
+			.container {
+				flex-direction: row;
+				padding: 6rem;
+				padding-bottom: 6rem;
+			}
+
+			nav {
+				margin-bottom: 0;
+				margin-right: 3rem;
+				border-bottom: none;
+				padding-bottom: 0;
+				flex-shrink: 0;
+			}
+
+			nav menu {
+				position: sticky;
+				top: 6rem;
+				flex-direction: column;
+				justify-content: flex-start;
+				gap: 0.25rem;
+				text-align: right;
+			}
+
+			main {
+				padding-left: 3rem;
+				flex: 1;
+			}
+
+			main::before {
+				content: '';
+				position: absolute;
+				top: 0;
+				left: 0;
+				height: 100%;
+				border-left: 1px solid #e5e5e5;
+			}
+
+			.sidebar {
+				display: block;
+				flex-shrink: 0;
+				width: 250px;
+				margin-left: 5rem;
+			}
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<nav>
+			<menu>
+				<li><a href="#about" data-active="true"><em>about</em></a></li>
+				<li><a href="#forecastlab" data-active="false"><em>forecast lab</em></a></li>
+				<li><a href="#publications" data-active="false"><em>publications</em></a></li>
+				<li><a href="#teaching" data-active="false"><em>teaching</em></a></li>
+				<li><a href="cv.pdf" data-active="false" target="_blank"><em>cv</em></a></li>
+			</menu>
+		</nav>
+
+		<main>
+			<article>
+				<div id="about" class="space-y-4">
+					<h1>Thomas Chadefaux</h1>
+					<p>I am a Professor in Political Science at Trinity College Dublin. My research focuses on the causes of interstate conflict and on their prediction.</p>
+					<p>I rely on large amounts of fine-grained spatial and temporal data (e.g., newspapers, satellite images, financial markets) to reveal early warning signals for war. My work combines methodological innovation with novel data sources to understand patterns of conflict emergence and escalation.</p>
+				</div>
+
+				<hr />
+
+				<div id="forecastlab" class="space-y-4">
+					<h2 style="font-weight: 500;">Forecast Lab</h2>
+					<p>I direct the <a href="https://forecastlab.org" target="_blank">Forecast Lab</a>, a research initiative focused on geopolitical risk forecasting and conflict prediction. Our lab combines transparent methods, rich data, and clear communication to support early warning and decision-making.</p>
+
+					<p>We provide monthly conflict risk forecasts for over 180 countries and 259,000 sub-national areas worldwide, with a six-month forecasting horizon. Using machine learning and pattern recognition, we predict conflict fatalities at both national and sub-national levels.</p>
+
+					<p>The lab operates as part of the <a href="#research">PaCE project</a>, funded by the European Research Council (grant 101002240). All our forecasts, datasets, and methodology documentation are publicly available through interactive dashboards at <a href="https://forecastlab.org" target="_blank">forecastlab.org</a>.</p>
+
+					<div style="margin-top: 1.5rem; padding: 1.5rem; background-color: #f9f9f9; border-radius: 4px;">
+						<p style="margin-bottom: 0.5rem; font-weight: 500;">Key Features:</p>
+						<ul style="margin-left: 1.5rem; line-height: 1.8;">
+							<li>Coverage: 180+ countries and 259,000 sub-national areas</li>
+							<li>Forecasting horizon: Six months ahead</li>
+							<li>Update frequency: Monthly</li>
+							<li>Public access to forecasts, data, and methodology</li>
+						</ul>
+					</div>
+				</div>
+
+				<hr />
+
+				<div id="publications" class="publication-list">
+					<h2 style="margin-bottom: 1.5rem; font-weight: 500;">Publications</h2>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://scholarspace.manoa.hawaii.edu/items/d2daf114-acea-43bf-bad3-35978d1cf244" target="_blank">Structured Pixels: Satellite Imagery as the Cause in Causal Effect Estimation</a>
+						</div>
+						<div class="publication-meta">2026 · C Lu, T Chadefaux</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://link.springer.com/article/10.1140/epjds/s13688-025-00599-x" target="_blank">Endogenous conflict and the limits of predictive optimization</a>
+						</div>
+						<div class="publication-meta">2025 · EPJ Data Science, Vol. 14(1), 82 · T Chadefaux, T Schincariol</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://journals.sagepub.com/doi/full/10.1177/00223433251330790" target="_blank">Accounting for variability in conflict dynamics: A pattern-based predictive model</a>
+						</div>
+						<div class="publication-meta">2025 · Journal of Peace Research, Vol. 62(6), pp. 2052-2069 · T Schincariol, H Frank, T Chadefaux</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://journals.sagepub.com/doi/10.1177/00223433241300862" target="_blank">The 2023/24 VIEWS Prediction challenge: Predicting the number of fatalities in armed conflict, with uncertainty</a>
+						</div>
+						<div class="publication-meta">2025 · Journal of Peace Research, Vol. 62(6), pp. 2070-2087 · H Hegre, P Vesco, M Colaresi, J Vestby, A Timlick, NS Kazmi, et al.</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://www.nature.com/articles/s41598-025-11812-2" target="_blank">Using machine learning to forecast conflict events for use in forced migration models</a>
+						</div>
+						<div class="publication-meta">2025 · Scientific Reports, Vol. 15(1), 28202 · Y Xue, T Schincariol, T Chadefaux, D Groen</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://onlinelibrary.wiley.com/doi/10.1002/for.3209" target="_blank">Temporal patterns in migration flows evidence from south sudan</a>
+						</div>
+						<div class="publication-meta">2025 · Journal of Forecasting, Vol. 44(2), pp. 575-588 · T Schincariol, T Chadefaux</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://www.cambridge.org/core/journals/political-analysis/article/dynamic-synthetic-controls-accounting-for-varying-speeds-in-comparative-case-studies/4ADE012CC7688FC793D5F00C4AC94AD8" target="_blank">Dynamic Synthetic Controls: Accounting for Varying Speeds in Comparative Case Studies</a>
+						</div>
+						<div class="publication-meta">2025 · Political Analysis, Vol. 33(1), pp. 18-31 · J Cao, T Chadefaux</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://viewsforecasting.org/wp-content/uploads/Pace_VIEWSPredictionChallenge2023.pdf" target="_blank">Temporal Patterns in Conflict Prediction: An improved Shape-Based Approach</a>
+						</div>
+						<div class="publication-meta">2024 · Working Paper · T Schincariol, H Frank, T Chadefaux</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://www.sciencedirect.com/science/article/pii/S1877750323001345" target="_blank">An automated pattern recognition system for conflict</a>
+						</div>
+						<div class="publication-meta">2023 · Journal of Computational Science, Vol. 72 · Chadefaux T.</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							Public and Private Information in International Crises: Diplomatic Correspondence and Conflict Anticipation (Correction)
+						</div>
+						<div class="publication-meta">2023 · International Studies Quarterly, Vol. 68(1) · C Boussalis, T Chadefaux, S Decadri, A Salvi</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							The effect of terrorist attacks on attitudes and its duration
+						</div>
+						<div class="publication-meta">2023 · Political Science Research and Methods, Vol. 11(4), pp. 893-902 · O Turkoglu, T Chadefaux</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://academic.oup.com/isq/article/66/4/sqac056/6701955" target="_blank">Public and Private Information in International Crises: Diplomatic Correspondence and Conflict Anticipation</a>
+						</div>
+						<div class="publication-meta">2022 · International Studies Quarterly, Vol. 66(4) · Boussalis C., Chadefaux T, Salvi A. and Decadri S.</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://www.tandfonline.com/doi/abs/10.1080/03050629.2022.2009821?journalCode=gini20" target="_blank">A shape-based approach to conflict forecasting</a>
+						</div>
+						<div class="publication-meta">2022 · International Interactions · Chadefaux, T</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/effect-of-terrorist-attacks-on-attitudes-and-its-duration/79F97080265041F026C407844B983B3D" target="_blank">The effect of terrorist attacks on attitudes and its duration</a>
+						</div>
+						<div class="publication-meta">2022 · Political Science Research and Methods · Turkoglu, O. and Chadefaux, T</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/what-the-enemy-knows-common-knowledge-and-the-rationality-of-war/B6AEABE7CECADCD0C46EB62BC8B6354A#" target="_blank">What the enemy knows: Common knowledge and the rationality of war</a>
+						</div>
+						<div class="publication-meta">2020 · British Journal of Political Science, Vol. 50(4), pp. 1593-1607 · Chadefaux, T</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://www.tandfonline.com/doi/full/10.1080/03050629.2019.1554571" target="_blank">Nowhere to go? Why do some civil wars generate more refugees than others?</a>
+						</div>
+						<div class="publication-meta">2019 · International Interactions, Vol. 45(2), pp. 401-420 · Turkoglu, O. and Chadefaux, T</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://journals.sagepub.com/doi/abs/10.1177/0022343316687615" target="_blank">Market anticipations of conflict onsets</a>
+						</div>
+						<div class="publication-meta">2017 · Journal of Peace Research, Vol. 54(2), pp. 313-327 · Chadefaux, T</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://www.tandfonline.com/doi/full/10.1080/19331681.2017.1308288" target="_blank">Communication power struggles on social media: A case study of the 2011–12 Russian protests</a>
+						</div>
+						<div class="publication-meta">2017 · Journal of Information Technology & Politics, Vol. 14(2), pp. 132-153 · Spaiser, V., Chadefaux, T., Donnay, K., Russmann, F. and Helbing, D.</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://content.iospress.com/articles/data-science/ds002" target="_blank">Conflict forecasting and its limits</a>
+						</div>
+						<div class="publication-meta">2017 · Data Science, Vol. 1(1-2), pp. 7-17 · Chadefaux, T</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://content.iospress.com/articles/data-science/ds002" target="_blank">Saving human lives: What complexity science and information systems can contribute</a>
+						</div>
+						<div class="publication-meta">2015 · Journal of Statistical Physics, Vol. 158(3), pp. 735-781 · Helbing, D., Brockmann, D., Chadefaux, T., Donnay, K., Blanke, U., Woolley-Meza, O., Moussaid, M., Johansson, A., Krause, J., Schutte, S. and Perc, M</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://journals.sagepub.com/doi/abs/10.1177/0022343313507302" target="_blank">Early warning signals for war in the news</a>
+						</div>
+						<div class="publication-meta">2014 · Journal of Peace Research, Vol. 51(1), pp. 5-18 · Chadefaux, T · Featured in The New York Times · Best visualization award 2014, Journal of Peace Research · Best paper award, Internet, Politics, Policy Conference, Oxford, 2012</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030902" target="_blank">The rationality of prejudices</a>
+						</div>
+						<div class="publication-meta">2012 · PloS one, Vol. 7(2), pp. 5-18 · Chadefaux, T. and Helbing, D</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://www.cambridge.org/core/journals/international-theory/article/abs/bargaining-over-power-when-do-shifts-in-power-lead-to-war/43BB13DF2F182E3E8759D8A5A31C4DF7" target="_blank">Bargaining over power: When do shifts in power lead to war?</a>
+						</div>
+						<div class="publication-meta">2011 · International Theory, Vol. 3(2), pp. 228-253 · Chadefaux, T</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013471" target="_blank">How wealth accumulation can promote cooperation</a>
+						</div>
+						<div class="publication-meta">2010 · PLoS One, Vol. 5(10) · Chadefaux, T. and Helbing, D</div>
+					</div>
+				</div>
+
+				<hr />
+
+				<div id="teaching" class="space-y-4">
+					<h2 style="font-weight: 500;">Teaching</h2>
+
+					<h3 style="font-weight: 500; font-size: 1.125rem; margin-top: 1.5rem; margin-bottom: 1rem;">Trinity College Dublin</h3>
+
+					<div class="publication-item">
+						<div class="publication-title">Social Forecasting</div>
+						<div class="publication-meta">POP77014 · PG Diploma seminar</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">International Conflict</div>
+						<div class="publication-meta">PO8051 · M.Sc. seminar</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">Research Methods for Political Science A</div>
+						<div class="publication-meta">POU33011 · Undergraduate Lecture</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">Capstone: Forecasting Conflict</div>
+						<div class="publication-meta">POU4400 · Undergraduate Seminar</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">Quantitative Methods I</div>
+						<div class="publication-meta">PO7001 · PhD Seminar</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="https://www.dropbox.com/sh/rd0mfeqghnh8yya/AAAShmBIYGjOTxRGjGZesvgha?dl=0" target="_blank">Quantitative Methods II</a>
+						</div>
+						<div class="publication-meta">PO7005 · PhD Seminar</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">Contemporary International Relations</div>
+						<div class="publication-meta">PO4700 · Undergraduate Lecture</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">Contemporary Global Politics</div>
+						<div class="publication-meta">PO6000 · Consortium for Advanced Studies Abroad (CASA)</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">International Negotiations</div>
+						<div class="publication-meta">PO8030 · M.Sc. Seminar</div>
+					</div>
+
+					<h3 style="font-weight: 500; font-size: 1.125rem; margin-top: 2rem; margin-bottom: 1rem;">ETH Zurich</h3>
+
+					<div class="publication-item">
+						<div class="publication-title">Modeling Social Processes</div>
+						<div class="publication-meta">860-0022-00L · Undergraduate Lecture</div>
+					</div>
+
+					<h3 style="font-weight: 500; font-size: 1.125rem; margin-top: 2rem; margin-bottom: 1rem;">University of Rochester</h3>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="http://www.thomaschadefaux.com/files/syllabi/SyllabusDomesticPol_IR.pdf" target="_blank">Domestic Politics and International Relations</a>
+						</div>
+						<div class="publication-meta">IR 224 · Undergraduate Lecture</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="http://www.thomaschadefaux.com/files/syllabi/SyllabusPeaceAndWar.pdf" target="_blank">Peace and War</a>
+						</div>
+						<div class="publication-meta">IR 227 · Undergraduate Lecture</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">Preventive Wars</div>
+						<div class="publication-meta">IR 222 · Undergraduate Lecture</div>
+					</div>
+
+					<div class="publication-item">
+						<div class="publication-title">
+							<a href="http://www.thomaschadefaux.com/files/syllabi/SyllabusNegotiations.pdf" target="_blank">International Negotiations</a>
+						</div>
+						<div class="publication-meta">IR 225 · Undergraduate Lecture</div>
+					</div>
+				</div>
+
+				<hr />
+
+				<div class="links">
+					<a href="mailto:chadefat@tcd.ie" target="_blank">Email</a>
+					<a href="cv.pdf" target="_blank">CV</a>
+					<a href="https://scholar.google.com/citations?user=vlopKRsAAAAJ&hl=en" target="_blank">Google Scholar</a>
+				</div>
+			</article>
+		</main>
+
+		<aside class="sidebar">
+			<div class="sticky-content">
+				<img src="chadefaux.jpg" alt="Thomas Chadefaux">
+			</div>
+		</aside>
+	</div>
+</body>
+</html>
