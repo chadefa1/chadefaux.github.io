@@ -1,65 +1,57 @@
 ---
 layout: page
-title: projects
+title: Forecast Lab
 permalink: /projects/
-description: A growing collection of your cool projects.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+nav_order: 4
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+<html>
+<head>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+</style>
+</head>
+</html>
 
-{% else %}
+<center>
+<h1>PaCE: Patterns of Conflict Emergence</h1>
 
-<!-- Display projects without categories -->
+<h3>
+<a href="http://www.forecastlab.org" target="_blank" rel="noopener">PaCE website</a>
+</h3>
+</center>
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+## What is PaCE?
+<div>
+  <img src="/assets/images/paceLogo.png" width="400" class="center" align="right" /> 
+</div>
 
-  <!-- Generate cards for each project -->
+PaCE is an ERC-funded project that aims to uncover recurring temporal sequences in the run-up to war.
 
-{% if page.horizontal %}
+The idea that history may repeat itself is old. But are there really recurring patterns in the escalation and emergence of wars? Just as DNA sequencing has been critical to medical diagnoses, PaCE aims to diagnose international politics by uncovering the relevant patterns in the area of conflict.
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
+Recent advances overcoming methodological and data barriers present an opportunity to identify these recurrences empirically and to examine whether these patterns can be classified to improve forecasts and inform theories of conflict. I propose to combine new methods using the shape of the sequence of events rather than its raw values—and novel data on conflict from finance, diplomatic cables, and newspapers, to extract typical pre-war motifs.
+
+## Objectives
+#### Identify patterns
+Identify patterns in the pre-conflict actions using data on conflict events—from the onset of WWI to Hamas’s rocket launches—and in their perceptions using data from financial markets (the “crowd’s” perception), news articles (the “experts”), and diplomatic documents (the policy-makers). This will allow us to evaluate the patterns of escalation over different timescales—from the decade to the minute. The similarity between temporal sequences will be measured using algorithms which allow for flexible matching, such as Dynamic Time Warping.
+
+#### Forecast
+Evaluate the utility of these patterns to improve forecasts of conflict with both historical and live out-of-sample predictions. Our results, using shape-based classification methods, will be made public and evaluated in real time. Moreover, using new measures of complexity to distinguish regular, chaotic, and random behavior, I will measure possible fundamental limits to the predictability of conflict events.
+
+#### Theory
+Summarize the core features of dangerous patterns into motifs—recurring patterns—that can help build new theories of conflict emergence and escalation. PaCE will build a repository of shapes—a grammar of patterns—to be used as the building blocks of new theories.
+
+## Funding
+PaCE is funded by ERC grant 101002240 and is hosted at the Department of Political Science at Trinity College Dublin.
+
+<div style="text-align:center">
+  <img src="/assets/images/ercTransparent.png" width="150" class="center" />
+  <img src="/assets/images/Trinity_Main_Logo.jpeg" width="300" class="center" />
 </div>

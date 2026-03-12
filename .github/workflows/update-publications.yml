@@ -1,0 +1,46 @@
+name: Update Publications from Google Scholar
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"  # Mondays at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: |
+          echo "🔧 Installing dependencies..."
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run publications update
+        id: run_publications_update
+        run: |
+          echo "🚀 Updating publications from Google Scholar..."
+          python bin/update_publications_from_scholar.py
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+
+      - name: Commit and push if changed
+        run: |
+          git add _data/publications.yml
+          git diff --staged --quiet || (
+            echo "📤 Committing and pushing updated publications..."
+            git commit -m "Update publications from Google Scholar"
+            git push
+          )
+

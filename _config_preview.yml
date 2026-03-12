@@ -1,0 +1,27 @@
+url: https://chadefa1.github.io
+baseurl: /chadefaux.github.io/preview
+exclude:
+  - _plugins/external-posts.rb
+  - gh-pages-worktree
+external_sources: []
+plugins:
+  - jekyll-3rd-party-libraries
+  - jekyll-archives-v2
+  # - jekyll-cache-bust  # disabled for preview to preserve baseurl in asset paths
+  - jekyll-email-protect
+  - jekyll-feed
+  - jekyll-get-json
+  - jekyll-imagemagick
+  - jekyll-jupyter-notebook
+  - jekyll-link-attributes
+  - jekyll-minifier
+  - jekyll-paginate-v2
+  - jekyll-regex-replace
+  - jekyll/scholar
+  - jekyll-sitemap
+  - jekyll-socials
+  - jekyll-tabs
+  - jekyll-terser
+  - jekyll-toc
+  - jekyll-twitter-plugin
+  - jemoji
